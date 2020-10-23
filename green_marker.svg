@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="82.973px"
+	 height="112.553px" viewBox="0 0 82.973 112.553" enable-background="new 0 0 82.973 112.553" xml:space="preserve">
+<switch>
+	<g i:extraneous="self">
+		<g>
+			<g>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="8.653" y="106.432" width="65.666" height="6.121">
+						<feColorMatrix  type="matrix"  values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="8.653" y="106.432" width="65.666" height="6.121" id="SVGID_2_">
+					<g filter="url(#Adobe_OpacityMaskFilter)">
+
+							<image overflow="visible" enable-background="new    " width="72" height="12" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASQBJAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAGXAAABzQAAAkH/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAwASQMBIgACEQEDEQH/
+xAB8AAABBQEAAAAAAAAAAAAAAAAEAAECBQcGAQEAAAAAAAAAAAAAAAAAAAAAEAACAgIDAQAAAAAA
+AAAAAAAABQEmFRYgIQIDEQAABAYBBAMAAAAAAAAAAAAAAQIDEpKiBDREFBEhQROh4QUSAQAAAAAA
+AAAAAAAAAAAAACD/2gAMAwEAAhEDEQAAAOaDvQwBznAonor42KKzcci10//aAAgBAgABBQDj/9oA
+CAEDAAEFAOP/2gAIAQEAAQUAetWXzd+WzOTKMSGTKTIMyWTKDKMT01ZwZdodjjUMvSSkkaUUsnSi
+klJKUdn/2gAIAQICBj8AP//aAAgBAwIGPwA//9oACAEBAQY/AP0W0XTqUIun0pSSzIiInFEREO94
+9OYzXpzGa9OYzXpzGa9OYzXpzHa8enMZbs5j7F9yeZ7+Q97YIIY41RQ9fHUb1A3qBvUDeoG9QN6g
+b1A3qB5+B//Z" transform="matrix(0.9861 0 0 0.9167 5.9873 104.4238)">
+						</image>
+					</g>
+				</mask>
+				<g mask="url(#SVGID_2_)">
+					<g>
+						<ellipse fill="#585858" cx="41.486" cy="109.492" rx="32.833" ry="3.061"/>
+					</g>
+				</g>
+			</g>
+      <path fill="#458c47" d="M78.722,37.23c0,16.34-10.52,30.22-25.17,35.229c-2.79,0.95-5.33,2.511-7.41,4.591
+				c-2.42,2.42-3.79,5.71-3.79,9.149v12.44c0,1.38,0.55,2.75,1.64,3.609c0.94,0.74,1.551,1.891,1.551,3.19
+				c0,2.22-1.79,4.02-3.99,4.05c-0.33,0-0.67-0.03-1.02-0.109c-1.471-0.341-2.66-1.53-2.99-3c-0.381-1.66,0.27-3.2,1.43-4.12
+				c1.09-0.86,1.65-2.23,1.65-3.62V86.2c0-1.72-0.34-3.399-0.98-4.95c-0.65-1.56-1.59-2.989-2.811-4.199
+				c-2.08-2.08-4.619-3.641-7.399-4.591c-13.7-4.689-23.8-17.13-25.05-32.1v-6.229C5.962,14.99,22.001-0.039,41.552,0
+				c0.85,0,1.72,0.03,2.58,0.09c18.22,1.261,33.04,15.92,34.47,34.121C78.682,35.23,78.722,36.23,78.722,37.23z"/>
+      <path fill="none" d="M4.382,34.131v6.229c-0.091-1.03-0.131-2.069-0.131-3.13C4.251,36.19,4.291,35.15,4.382,34.131z"/>
+
+
+
+		</g>
+	</g>
+</switch>
+</svg>
